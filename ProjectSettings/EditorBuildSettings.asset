@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Oculus/VR/Scenes/HandTest.unity
-    guid: b9a31e08066d6e343a208d34ec298f09
+    path: Assets/Scenes/Main.unity
+    guid: e95fca63137fbe14b8e1eaf2708b5909
   m_configObjects: {}
