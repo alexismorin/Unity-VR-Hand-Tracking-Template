@@ -1,5 +1,5 @@
 # Unity-VR-Hand-Tracking-Template
-# My personal Unity Oculus Quest VR Hand Tracking Template
+## My personal Unity Oculus Quest VR Hand Tracking Template
 
 Just install the Oculus Integration and you're good to go!
 
