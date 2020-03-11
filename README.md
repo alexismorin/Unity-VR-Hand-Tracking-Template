@@ -1,5 +1,5 @@
 # Unity-VR-Hand-Tracking-Template
-## My personal Unity Oculus Quest VR Hand Tracking Template
+## A Unity Oculus Quest VR Hand Tracking Template
 ### For Unity 2019.3.0f6
 
 ![gif](images/gif.gif)
